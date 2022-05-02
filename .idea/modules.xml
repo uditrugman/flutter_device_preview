@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/device_frame/device_frame.iml" filepath="$PROJECT_DIR$/device_frame/device_frame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/device_preview/device_preview.iml" filepath="$PROJECT_DIR$/device_preview/device_preview.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/flutter_device_preview.iml" filepath="$PROJECT_DIR$/.idea/flutter_device_preview.iml" />
     </modules>
   </component>
