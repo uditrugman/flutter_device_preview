@@ -2,7 +2,8 @@ name: device_frame
 description: Mockups for common devices.
 version: 1.0.0
 homepage: https://github.com/aloisdeniel/flutter_device_preview/device_frame
-publish_to: https://pub.trugman.com/
+#publish_to: https://pub.trugman.com/
+publish_to: https://dart.pkg.jetbrains.space/trugman/p/main/dart/
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
